@@ -15,6 +15,6 @@ public class sss11 {
 	
 	
 	public void test12(){
-		System.out.println("!@#$%^&*()_1111");
+		System.out.println("!@#$%^2222222&*()_1111");
 	}
 }
