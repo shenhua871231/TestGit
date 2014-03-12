@@ -12,4 +12,9 @@ public class sss11 {
 	public void test1(){
 		System.out.println("!@#$%^&*()_");
 	}
+	
+	
+	public void test12(){
+		System.out.println("!@#$%^&*()_");
+	}
 }
